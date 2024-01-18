@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin\AnnouncementAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\ManageStaffSalaryAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\TrainRouteAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\ManageStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PassengerLoginInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Passenger\BookTicketPassenger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Passenger\CheckAnnouncementPassenger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Passenger\PassengerInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Passenger\TrainInformationPassenger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUpInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaffLoginInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\CheckAnnouncementStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\ManagePassengerInfoStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\ManageTrainScheduleStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\MangeTicketBookingStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\StaffInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sabid\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sabid\\.nuget\\packages"
+    ]
+  }
+}
